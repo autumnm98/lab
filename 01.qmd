@@ -248,41 +248,41 @@ Definitions: define the terms that are essential to this chapter.
 
 ### Directional terms
 
-|                       |       |
-|-----------------------|-------|
-| Anterior (or ventral) | front |
-| Posterior (or dorsal) | back  |
-| Superior (or cranial) | upper |
-| Inferior (or caudal)  | lower |
-| Lateral               | side  |
-| Medial                |       |
-| Proximal              |       |
-| Distal                |       |
-| Superficial           |       |
-| Deep                  |       |
+|                       |                                                     |
+|-----------------------|-----------------------------------------------------|
+| Anterior (or ventral) | front                                               |
+| Posterior (or dorsal) | back                                                |
+| Superior (or cranial) | upper                                               |
+| Inferior (or caudal)  | lower                                               |
+| Lateral               | side                                                |
+| Medial                | toward midline                                      |
+| Proximal              | toward attached base                                |
+| Distal                | away from attached base                             |
+| Superficial           | at near, close to body surface                      |
+| Deep                  | toward interior of body , further away from surface |
 
 \### Body Cavities
 
-|             |     |     |     |
-|-------------|-----|-----|-----|
-| Cranial     |     |     |     |
-| Abdominal   |     |     |     |
-| Pericardial |     |     |     |
-| Pleural     |     |     |     |
-| Ventral     |     |     |     |
+|             |                                                     |     |     |
+|-------------|-----------------------------------------------------|-----|-----|
+| Cranial     | bone space with skull                               |     |     |
+| Abdominal   | extends from inferior to superior margins of pelvis |     |     |
+| Pericardial | lies within the mediastinum                         |     |     |
+| Pleural     | surrounds the lungs                                 |     |     |
+| Ventral     | front of the trunk                                  |     |     |
 
 \### Body Planes
 
-|                    |     |     |     |
-|--------------------|-----|-----|-----|
-|                    |     |     |     |
-| Sagittal plane     |     |     |     |
-| Midsagittal plane  |     |     |     |
-| Parasagittal plane |     |     |     |
-| Frontal plane      |     |     |     |
-| Transverse plane   |     |     |     |
+|  |  |  |  |
+|----|----|----|----|
+|  |  |  |  |
+| Sagittal plane | section thats divdes body into L/R portions |  |  |
+| Midsagittal plane | passing through midline of body divdes into l/r halves |  |  |
+| Parasagittal plane |  |  |  |
+| Frontal plane | divides body into anterior and posterior portions |  |  |
+| Transverse plane | divides body into superior and inferiot head to foot axix |  |  |
 
-Oblique plane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Oblique plane \_\_\_\_\_\_\_\_cuts body at angle neither parellel or perpindicular\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## **Prelab Activity 1.2**
 
@@ -296,20 +296,20 @@ Identify the following cavities or structures in the body.
 
 **Table 1.1 Identification Table for Figure 1.1.**
 
-| Cavity<br>number | Cavity or structures |
-|------------------|----------------------|
-| 1                |                      |
-| 2                |                      |
-| 3                |                      |
-| 4                |                      |
-| 5                |                      |
-| 6                |                      |
-| 7                |                      |
-| a                |                      |
-| b                |                      |
-| c                |                      |
-| d                |                      |
-| e                |                      |
+| Cavity<br>number | Cavity or structures    |
+|------------------|-------------------------|
+| 1                | cranial cavity          |
+| 2                | thoratic cavity         |
+| 3                | abdominal cavity        |
+| 4                | pelvic cavity           |
+| 5                | ventral body cavity     |
+| 6                | abdominal pelvic cavity |
+| 7                | dorsal body cavity      |
+| a                | superior mediastinum    |
+| b                | spinal cord             |
+| c                | pleural cavity          |
+| d                | pericardial cavity      |
+| e                | diaphram                |
 
 \## **Prelab Activity 1.3**
 
@@ -319,20 +319,20 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 
 **Table 1.2**. Identification of Organs and their Function
 
-| Organ<br>System | Function | Organs  |
-|-----------------|----------|---------|
-| 1 Nervous       |          | Brain   |
-| 2 Digestive     |          | Stomach |
-| 3               |          |         |
-| 4               |          |         |
-| 5               |          |         |
-| 6               |          |         |
-| 7               |          |         |
-| 8               |          |         |
-| 9               |          |         |
-| 10              |          |         |
-| 11a             |          |         |
-| 11b             |          |         |
+| Organ<br>System | Function | Organs |
+|----|----|----|
+| 1 Nervous | detects and processes sensory | Brain |
+| 2 Digestive | absorbs nutrients | Stomach |
+| 3Muscular | enables movement | tendons |
+| 4Endocrine | secretes horemones regulates body processes | thyrod gland |
+| 5Cardiovascular | delivers nutrients to tissues | heart |
+| 6Lymphatic | returns fluid to blood | thymus |
+| 7Skeletal | cartilage | supports body movement |
+| 8Integumentary |  |  |
+| 9 |  |  |
+| 10 |  |  |
+| 11a Male reprod |  |  |
+| 11b Female reprod |  |  |
 
 \## **Lab Activities**
 
