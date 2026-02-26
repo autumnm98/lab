@@ -609,17 +609,17 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
 
 #### **Table 1.4. Abdominal Regions**
 
-| Regions             | Organs |
-|---------------------|--------|
-| left hypochondriac: | spleen |
-| Epigastric          |        |
-| right hypochondriac |        |
-| left lumbar         |        |
-| umbilical           |        |
-| right lumbar        |        |
-| left iliac          |        |
-| hypogastric         |        |
-| right iliac         |        |
+| Regions             | Organs   |
+|---------------------|----------|
+| left hypochondriac: | spleen!! |
+| Epigastric          |          |
+| right hypochondriac |          |
+| left lumbar         |          |
+| umbilical           |          |
+| right lumbar        |          |
+| left iliac          |          |
+| hypogastric         |          |
+| right iliac         |          |
 
 ![](_page_19_Figure_0.jpeg)
 
